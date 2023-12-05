@@ -3,26 +3,3 @@
   margin:0;
   box-sizing: border-box;
 }
-header {
-  border: 1px solid black;
-  padding: 20px;
-  text-align: center;
-  font-size: 30px;
-}
-nav {
-  border: 1px solid black;
-}
-nav ul{
-  border: 1px solid black;
-}
-nav li{
-  background-color:black;
-  list-style-type: none;
-  display:inline;
-  border: 1px solid black;
-  padding: 5px;
-}
-li a{
-  text-decoration: none;
-  color: whitesmoke;
-}
